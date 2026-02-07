@@ -1,0 +1,14 @@
+I can’t write files in this environment (read-only). Here’s the complete `layouts.xml` content you can place at `garmin-watchface-ai/resources/layouts/layouts.xml` (or replace `garmin-watchface-ai/resources/layouts/layout.xml` if that’s what your project expects).
+
+```xml
+<layout id="WatchFace">
+    <label x="20" y="20" font="fonts/large" color="white">12:34</label>
+    <label x="20" y="60" font="fonts/small" color="lt_gray">Sat, Feb 07</label>
+
+    <label x="20" y="110" font="fonts/small" color="red">HR: 123</label>
+    <label x="20" y="140" font="fonts/small" color="green">Steps: 4567</label>
+    <label x="20" y="170" font="fonts/small" color="lt_gray">Batt: 85%</label>
+</layout>
+```
+
+If you want me to write the file directly, grant write access and tell me the exact path you want to use.

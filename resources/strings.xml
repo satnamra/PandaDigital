@@ -1,0 +1,9 @@
+I checked `PandaDigital/resources/strings.xml` and it’s currently empty. The sandbox is read-only, so I can’t write it directly. Here’s the exact content to put in `PandaDigital/resources/strings.xml`:
+
+```xml
+<resources>
+    <string id="AppName">PandaDigital</string>
+</resources>
+```
+
+If you want me to write it, please run the edit locally or switch me to a writable sandbox.
